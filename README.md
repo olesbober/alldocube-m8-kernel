@@ -10,4 +10,4 @@ Please note, I am new to any sort of Android development, so this may take me a 
 
 * Alldocube M8 Device Specifications: https://www.devicespecifications.com/en/model/1c644e27
 
-* Use a script by typing \./nameofscript\
+* Use a script by typing ./nameofscript
