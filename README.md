@@ -8,3 +8,4 @@ This is the repository that contains my work at attempting to modify the kernel 
 
 Please note, I am new to any sort of Android development, so this may take me a while! I am mainly doing this for the learning experience.
 
+* Alldocube M8 Device Specifications: https://www.devicespecifications.com/en/model/1c644e27
